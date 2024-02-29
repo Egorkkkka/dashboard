@@ -2,7 +2,7 @@ export type SiteConfig = typeof siteConfig;
 
 export const siteConfig = {
   name: 'Boundary',
-  description: 'Сервис по доставке товаров из-за границы.',
+  description: 'Сервис по доставке премиальных товаров из-за границы.',
   navItems: [
     {
       label: 'Каталог',
